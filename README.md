@@ -1,6 +1,6 @@
 # Natural_Language_Processing
 
-El link del repo de github es el siguiente: https://github.com/ramonmorillx/TimeSeries_Forecasting
+El link del repo de github es el siguiente: https://github.com/ramonmorillx/Natural_Language_Processing
 
 **Autor**:
 Ramón Morillo Barrera - ramon.morillo@cunef.edu / ramonvejer@gmail.com
